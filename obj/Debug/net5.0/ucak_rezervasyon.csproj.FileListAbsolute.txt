@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\bin\Debug\net5.0\ucak_rezervasyon.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\bin\Debug\net5.0\ucak_rezervasyon.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\bin\Debug\net5.0\ucak_rezervasyon.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\bin\Debug\net5.0\ucak_rezervasyon.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\bin\Debug\net5.0\ucak_rezervasyon.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\bin\Debug\net5.0\ucak_rezervasyon.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\refint\ucak_rezervasyon.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ucak_rezervasyon.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\KURS\ÖDEVLER\ucak_rezervasyon\obj\Debug\net5.0\ref\ucak_rezervasyon.dll
